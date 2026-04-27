@@ -1,0 +1,8 @@
+[build]
+  publish = "dashboard"
+  command = "echo 'Despliegue estático del dashboard.'"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"

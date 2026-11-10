@@ -1,4 +1,4 @@
-# 🏆 The Oracle: Premier League AI Analytics
+# The Oracle: Premier League AI Analytics
 ### Taller 2 — Machine Learning I (2026-I)
 **Universidad Externado de Colombia**
 
@@ -6,21 +6,20 @@ Este proyecto presenta un ecosistema completo de análisis predictivo para la Pr
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 - **David Castro**
 - **Miguel Melo**
 - **Santiago Rincon**
 
 ---
 
-## 🚀 Dashboard Desplegado
+## Dashboard Desplegado
 El dashboard interactivo está disponible en:
-👉 **[https://the-oracle-pl.netlify.app/](https://the-oracle-pl.netlify.app/)** 
-*(O el URL proporcionado en la entrega)*
+**[https://the-oracle-pl.netlify.app/](https://the-oracle-pl.netlify.app/)** 
 
 ---
 
-## 🧠 Arquitectura del Proyecto
+## Arquitectura del Proyecto
 
 ### 1. Modelo xG (Goles Esperados)
 Utilizamos una **Regresión Logística** entrenada con más de 7,000 tiros. 
@@ -35,7 +34,7 @@ Un sistema híbrido que combina:
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 - `notebooks/`: Contiene los archivos `.ipynb` con el EDA y entrenamiento.
   - `modelo1_xg.ipynb`: Desarrollo del modelo de Goles Esperados.
   - `modelo2_match_predictor.ipynb`: Lógica del predictor de partidos.
@@ -46,12 +45,12 @@ Un sistema híbrido que combina:
 
 ---
 
-## 🛠️ Cómo ejecutar el proyecto localmente
+## Cómo ejecutar el proyecto localmente
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/taller2-ml1-premier-league.git
-   cd taller2-ml1-premier-league
+   git clone https://github.com/Daveai012/Taller2-ml1-premier-league.git
+   cd Taller2-ml1-premier-league
    ```
 
 2. **Configurar el entorno:**
@@ -69,5 +68,5 @@ Un sistema híbrido que combina:
 
 ---
 
-## 📝 Reflexión
-*"El fútbol es como una Regresión Logística: tienes todas las variables controladas hasta que un defensa central decide intentar una chilena desde el mediocampo."* ⚽✨
+## Reflexión
+*"El fútbol es como una Regresión Logística: tienes todas las variables controladas hasta que un defensa central decide intentar una chilena desde el mediocampo."*
